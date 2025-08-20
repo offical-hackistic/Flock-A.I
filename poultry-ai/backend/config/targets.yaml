@@ -1,0 +1,22 @@
+# Generic target curves (approximate). Adjust to your integrator/breed/season.
+temperature_c_by_day:
+  "0": 32
+  "1": 32
+  "2": 31.5
+  "3": 31
+  "4": 30.5
+  "5": 30
+  "6": 29.5
+  "7": 29
+  "10": 28
+  "14": 26
+  "21": 23
+  "28": 21.5
+  "35": 21
+humidity_pct_target_range: [50, 70]
+co2_ppm_max: 3000
+ammonia_ppm_max: 25
+light_lux_by_day:
+  "0": 30
+  "7": 20
+  "21": 10

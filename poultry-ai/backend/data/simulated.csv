@@ -1,0 +1,2 @@
+timestamp,house_id,temp_c,humidity_pct,co2_ppm,nh3_ppm,airflow_cfm,water_lph,feed_kgph,avg_bird_weight_kg,mortality_today,birds_alive,age_days,birds_start
+2025-08-20T05:22:38.909240,H1,30.0,60.0,1800,10.0,6000,80.0,40.0,0.2,0,20000,1,20000
