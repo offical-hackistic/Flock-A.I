@@ -1,4 +1,4 @@
-# Poultry AI — Starter Repo (Codespaces Ready)
+# Poultry AI
 
 An end‑to‑end starter that helps commercial poultry growers monitor conditions, simulate data, and get actionable, grower‑first recommendations.
 
